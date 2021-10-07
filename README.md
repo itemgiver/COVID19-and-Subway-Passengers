@@ -10,6 +10,10 @@ The number of subway passengers decreased due to COVID-19.
 
 ## Visualization
 
+Red Dot   - stations where passengers decreased more than 30%. \
+Green Dot - stations where passengers decreased more than 20% to 30%. \
+Blue Dot  - stations where passengers decreased less than 20%.
+
 ![mapping_period1(black-90+,blue-90~80,green-80~70,red-70 below)](https://user-images.githubusercontent.com/87184009/136387194-3d9e9b8f-b1bf-4216-acf2-48dca6a8b289.png)
 
 ## Conclusion
@@ -20,6 +24,9 @@ The number of subway passengers decreased due to COVID-19.
 4. The number of subway passengers decreased more than other transportation riders like buses and cars.
 5. The number of passengers at subway stations around Jung-gu, where commercial districts are concentrated, decreased the most among all areas.
 6. When the number of companies in each distinct increases, the rate of subway users also decreases more.
+
+To get more information about our research refer to \
+https://github.com/itemgiver/COVID19-and-Subway-Passengers/blob/main/Final%20Report.pdf
 
 ## Contribution
 
