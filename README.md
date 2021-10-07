@@ -1,6 +1,6 @@
 # Analyzing Subway Usage Patterns in Relation to Pandemic Outbreaks
 
-## Project Overview
+
 
 ## Project Background
 
@@ -12,11 +12,15 @@ The number of subway passengers decreased due to COVID-19.
 
 ![mapping_period1(black-90+,blue-90~80,green-80~70,red-70 below)](https://user-images.githubusercontent.com/87184009/136387194-3d9e9b8f-b1bf-4216-acf2-48dca6a8b289.png)
 
-## Result
+## Conclusion
 
-1. The number of passengers decreased the most at stations near the university.
-2. 
+1. Stations near universities showed a large decrease in usage due to online lectures in 2020.
+2. Stations near the place where people originally crowded showed a large reduction rate. This happens because of social distancing and the fear of COVID-19.
+3. The number of COVID-19 patients in the city did not significantly affect the number of subway passengers. It was not a crucial factor for subway riders.
+4. The number of subway passengers decreased more than other transportation riders like buses and cars.
+5. The number of passengers at subway stations around Jung-gu, where commercial districts are concentrated, decreased the most among all areas.
+6. When the number of companies in each distinct increases, the rate of subway users also decreases more.
 
 ## Contribution
 
-This is a team project with three undergraduate students. Thanks to team members' hard work, our team made a meaningful visualization and results. Also, our team summarized the conclusion and insights in the report.
+This is a team project with three undergraduate students. Thanks to team members' hard work, our team made meaningful visualization results. Also, our team summarized the conclusion and insights in the report.
