@@ -1,12 +1,10 @@
 # Analyzing Subway Usage Patterns in Relation to Pandemic Outbreaks
 
+## Introduction
 
+The number of subway passengers decreased a lot due to COVID-19. However, other transportation passengers didn't diminish compared to the subway. We wondered why this phenomenon happened only in the subway. The project finds out what external factors have caused the number of subway passengers to change.
 
-## Project Background
-
-The number of subway passengers decreased due to COVID-19. 
-
-![compare subway](https://user-images.githubusercontent.com/87184009/136387102-1bc50d01-9e8a-4ee3-a7e7-b421598421fb.png)
+![image](https://user-images.githubusercontent.com/87184009/136424146-0e42865f-4ac1-4a7d-896a-ad2b40a86e45.png)
 
 ## Visualization
 
