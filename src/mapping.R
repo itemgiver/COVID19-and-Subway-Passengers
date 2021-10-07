@@ -66,7 +66,7 @@ colnames(sub_8070_pos)<-c("전철역명","호선","x좌표","y좌표")
 
 
 
-register_google(key="AIzaSyDZz6Y2yM5QPSchfJivsyWEpCnUHGf1tUc")
+register_google(key="somethingsomething")
 
 center <- c((mean(sub_high_pos$y좌표)+mean(sub_low_pos$y좌표)+mean(sub_9080_pos$y좌표)+mean(sub_8070_pos$y좌표))/4,
             (mean(sub_high_pos$x좌표)+mean(sub_low_pos$x좌표)+mean(sub_9080_pos$x좌표)+mean(sub_8070_pos$x좌표))/4)
